@@ -1,10 +1,10 @@
 # Show_cmd_Capture
  
-The script will capture list of show commands from the list of devices IP given in the inPut.yaml. This is not a official script and no official support offered.
+The script will execute and capture list of show commands output from the list of devices given in the inPut.yaml. This is not a official script and no official support is offered.
 
 How to use:
 1. The executable is tested on Microsoft Windows10 Operating systems.
-2. Download the latest version of Show_cmd_Capture.exe and inPut.yaml.
+2. Download the latest version of Show_cmd_Capture.exe and inPut.yaml to your windows syste. This should have IP reachability to all the devices given in the input file.
 3. The input yaml file should be maintatained as shown in the file attached here (retain the same file name as well).
 4. Replace IPs and commands as needed, no other changes required. The ips should be comma (,) seperated only no range will be accepted.
 5. Open the command promt and execute from the download folder Show_cmd_Capture_v1.0.exe.
