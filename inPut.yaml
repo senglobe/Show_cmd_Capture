@@ -1,0 +1,20 @@
+devices: 10.10.10.1,10.10.10.2        # Devices management IP address in comma seperated
+commands:
+    - terminal length 0
+    - terminal width 0
+    - show version
+    - show module
+    - show run | sec exc username | password |-password | key|-key | community | secret |crypto  # exclude lines that has sensitive data
+    - show vtp status
+    - show vlan
+    - show spanning-tree
+    - show license
+    - show spanning-tree summary
+    - show ip interface brief
+    - show cdp neighbor details
+    - show snmp engineID
+    - show monitor session all
+    - show ip protocol
+    - show arp
+    - show mac address-table
+    - show interface
