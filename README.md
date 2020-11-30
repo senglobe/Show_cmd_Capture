@@ -13,7 +13,7 @@ How to use:
 8. Oncee completed, you can find a a folder with  project name given, and .zip with same name and a .log file.
 9. The .log (file date_time_projectname.log) will show any error durin the script execution
 
-Good to now:
+Good to know:
 1. The script will try to reach 4 devices at a time(multi threading) from the list.
 2. The script waits 2 seconds before sending next commoand, to avoid sending too many requests to the device.
 3. In the sample show command "show run" had given with multiple exclude key words "show run | sec exc username | password |-password | key|-key | community | secret |crypto", this is to ensure secure data is not collected in show run. In case if you want to exclude any other information from other show commands or in show run, just include them in the input.
