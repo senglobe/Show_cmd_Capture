@@ -1,6 +1,6 @@
 # Show_cmd_Capture
  
-The script will execute and capture list of show commands output from the list of devices given in the inPut.yaml. This is not a official script and no official support is offered.
+The Show_cmd_Capture_v1.0.exe is windows operating system utility that captures the cli commands passed on command prompt of the devices. The script will capture list of show commands output from the list of devices given in the inPut.yaml. This is not a official script and no official support is offered.
 
 How to use:
 1. The executable is tested on Microsoft Windows10 Operating systems.
@@ -12,6 +12,8 @@ How to use:
 7. When propted, provide device login credentials (username, password and enable password). The same username and password will be used of all the devices in the input file.
 8. Oncee completed, you can find a a folder with  project name given, and .zip with same name and a .log file.
 9. The .log (file date_time_projectname.log) will show any error durin the script execution
+
+
 
 Good to know:
 1. The script will try to reach 4 devices at a time(multi threading) from the list.
