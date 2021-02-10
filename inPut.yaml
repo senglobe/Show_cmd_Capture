@@ -1,4 +1,4 @@
-devices: 10.10.10.1,10.10.10.2        # Devices management IP address in comma seperated
+devices: 192.5.100.245,192.5.200.245,192.5.101.68,192.5.201.68        # Devices management IP address in comma seperated
 commands:
     - terminal length 0
     - terminal width 0
@@ -18,3 +18,7 @@ commands:
     - show arp
     - show mac address-table
     - show interface
+ISE: 172.16.54.11     # ISE management IP address
+ISE_CMD:    # ISE show commands
+    - show version
+    - show inventory
