@@ -18,6 +18,7 @@ commands:
     - show arp
     - show mac address-table
     - show interface
+    - show switch
 ISE: 172.16.54.11     # ISE management IP address
 ISE_CMD:    # ISE show commands
     - show version
