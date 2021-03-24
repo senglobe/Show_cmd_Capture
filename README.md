@@ -15,8 +15,8 @@ How to use:
 7. When prompted, provide device login credentials (username, password and enable password). The same username and password will be used of all the devices in the input file.
 ![alt text](https://github.com/senglobe/Show_cmd_Capture/blob/master/device_cred_image.png?raw=true)
 8. If you would like to capture the ISE show commands as well from the script, answer "yes" when prompted
-![alt text](https://github.com/senglobe/Show_cmd_Capture/blob/master/ise.png?raw=true)
-9. Script will execute all the commands to all the devices in the YAML file. 
+<img width="640" alt="ise" src="https://user-images.githubusercontent.com/8314629/112278307-affe3900-8ca8-11eb-9e17-1af947084c42.PNG">
+9. Script will execute all the commands to all the devices in the YAML file
 ![alt text](https://github.com/senglobe/Show_cmd_Capture/blob/master/cmd_fires_image.png?raw=true)
 10. Oncee completed, you can find a a folder with  project name given, and .zip with same name and a .log file.
 ![alt text](https://github.com/senglobe/Show_cmd_Capture/blob/master/outputfile_image.png?raw=true)
