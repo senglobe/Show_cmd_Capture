@@ -5,9 +5,7 @@ The Show_cmd_Capture_v1.0.exe is windows operating system utility that captures 
 How to use:
 1. The executable is tested on Microsoft Windows10 Operating systems.
 2. Download the latest version of Show_cmd_Capture.exe and inPut.yaml to your windows syste. This should have IP reachability to all the devices given in the input file.  
-
 ![alt text](https://github.com/senglobe/Show_cmd_Capture/blob/master/exec_yaml_file-image.png?raw=true). 
-
 3. The input yaml file should be maintatained as shown in the file in this repo (retain the same file name as well).
 4. Replace IPs and commands as needed, no other changes required. The ips should be comma (,) seperated only no range will be accepted.
 5. Open the command promt and execute from the download folder Show_cmd_Capture_v1.0.exe.
