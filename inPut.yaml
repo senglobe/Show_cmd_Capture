@@ -19,6 +19,7 @@ commands:
     - show mac address-table
     - show interface
     - show switch details
+    - show stackwise-virtual
 ISE: 172.16.54.11     # ISE management IP address
 ISE_CMD:    # ISE show commands
     - show version
