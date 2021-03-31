@@ -10,7 +10,7 @@ How to use:
 5. Replace IPs and commands as needed, no other changes required. The ips should be comma (,) seperated only no range will be accepted.
 7. For Windows, Open the command promt and execute from the download folder Show_cmd_Capture_v1.0.exe.
 ![alt text](https://github.com/senglobe/Show_cmd_Capture/blob/master/exec_yaml_file-image.png?raw=true)
-8. For Mac, Open the terminal window and anvigate to the folder to where the file was downloaded. execute "chmod 777 <Show_cmd_Capture_Mac..>". Then run the file as any other script. like ./<Show_cmd_Capture_Mac> 
+8. For Mac, Open the terminal window and anvigate to the folder to where the file was downloaded. execute "chmod 777 <Show_cmd_Capture_Mac..>". Then run the file as any other script. like ./<Show_cmd_Capture_Mac> . You may want to allow this file in ‘Security & Privacy’ under ‘System Preferences'.
 ![Screenshot 2021-03-31 at 1 18 47 PM](https://user-images.githubusercontent.com/8314629/113111947-49d46180-9226-11eb-9876-e22912491699.png)
 9. When prompted for project name provide any name (without special character),the same name will be used to create a output folder to store all show commands output. Ensure there is no folder already exist with this same name from where you are executing.
 10. When prompted, provide device login credentials (username, password and enable password). The same username and password will be used of all the devices in the input file.
