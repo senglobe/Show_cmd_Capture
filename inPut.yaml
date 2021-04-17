@@ -11,7 +11,7 @@ commands:
     - show license
     - show spanning-tree summary
     - show ip interface brief
-    - show cdp neighbor details
+    - show cdp neighbor detail
     - show snmp engineID
     - show monitor session all
     - show ip protocol
