@@ -4,7 +4,7 @@ commands:
     - terminal width 0
     - show version
     - show module
-    - show run | sec exc username | password |-password | key|-key | community | secret | crypto
+    - show run | exc username | password |-password | key|-key | community | secret | crypto
     - show vtp status
     - show vlan
     - show spanning-tree
